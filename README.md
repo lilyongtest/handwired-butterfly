@@ -4,8 +4,6 @@ butterfly
 ## Images
 ![1772633373-6iY2RfpuBTC04MteyWFrGSKV](https://github.com/user-attachments/assets/bc156b28-da2c-4c86-9ea1-28a154250616)
 
-## Status
-- Prototype
 
 ## Status
 - Prototype
