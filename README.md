@@ -1,14 +1,14 @@
 # Keyboard Name
 
-A handwired mechanical keyboard.
+butterfly
 
 ---
 
 ## Status
-- Prototype / In Development / Production
+- Prototype
 
 ## Controller
-- RP2040-Zero / RP2040 Pro Micro / etc.
+- RP2040-Zero
 
 ---
 
