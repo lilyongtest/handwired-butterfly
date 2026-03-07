@@ -9,7 +9,10 @@
 - Prototype
 
 ## Features
-- unique layout, an integrated design, a leather trackpad, and interchangeable outer covers.
+- Unique layout
+- Integrated keyboard design
+- Leather trackpad
+- Interchangeable outer covers
 
 ## Specifications
 
