@@ -1,5 +1,5 @@
-# Keyboard Name
-butterfly
+## Keyboard Name
+- butterfly
 
 ## Images
 ![1772633373-6iY2RfpuBTC04MteyWFrGSKV](https://github.com/user-attachments/assets/bc156b28-da2c-4c86-9ea1-28a154250616)
@@ -8,13 +8,8 @@ butterfly
 ## Status
 - Prototype
 
-## Controller
-- RP2040-Zero
-
-
 ## Features
 - unique layout, an integrated design, a leather trackpad, and interchangeable outer covers.
-
 
 ## Specifications
 
@@ -29,11 +24,7 @@ butterfly
 
 
 ## Layout
-(Add layout image or KLE link)
-
-Example:
-
-![layout](images/layout.png)
+<img width="838" height="277" alt="keyboard-layout" src="https://github.com/user-attachments/assets/bac0d49f-a488-4f6d-8a8e-86f96c64609a" />
 
 
 ## Firmware
