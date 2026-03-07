@@ -2,7 +2,6 @@
 
 butterfly
 
----
 
 ## Status
 - Prototype
@@ -10,12 +9,10 @@ butterfly
 ## Controller
 - RP2040-Zero
 
----
 
 ## Features
 - unique layout, an integrated design, a leather trackpad, and interchangeable outer covers.
 
----
 
 ## Specifications
 
@@ -28,7 +25,6 @@ butterfly
 | Connection | USB-C |
 | Case | cardboard / lether  |
 
----
 
 ## Layout
 (Add layout image or KLE link)
@@ -36,8 +32,6 @@ butterfly
 Example:
 
 ![layout](images/layout.png)
-
----
 
 
 ## Firmware
@@ -47,22 +41,9 @@ Firmware files are located in:
 firmware/
 ```
 
----
 
 ## Images
 
 Keyboard photos.
 
 ![keyboard](images/keyboard.jpg)
-
----
-
-## Build Notes
-
-Optional notes about building the keyboard.
-
-Example:
-- Handwired with diodes
-- Plate thickness
-- Assembly tips
-
