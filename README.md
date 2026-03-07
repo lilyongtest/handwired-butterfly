@@ -1,8 +1,11 @@
 # Keyboard Name
-
 butterfly
-![Uploading 1772633373-6iY2RfpuBTC04MteyWFrGSKV.webp…]()
 
+## Images
+![1772633373-6iY2RfpuBTC04MteyWFrGSKV](https://github.com/user-attachments/assets/bc156b28-da2c-4c86-9ea1-28a154250616)
+
+## Status
+- Prototype
 
 ## Status
 - Prototype
@@ -41,10 +44,7 @@ Firmware files are located in:
 ```
 firmware/
 ```
-
-
-## Images
+## Build Notes
 
 Keyboard photos.
 
-![keyboard](images/keyboard.jpg)
