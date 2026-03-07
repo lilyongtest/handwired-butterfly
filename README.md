@@ -13,10 +13,7 @@ butterfly
 ---
 
 ## Features
-- Brief description of the keyboard
-- Layout type (split / ortholinear / staggered / etc.)
-- Number of keys
-- Any special design or functionality
+- unique layout, an integrated design, a leather trackpad, and interchangeable outer covers.
 
 ---
 
@@ -24,12 +21,12 @@ butterfly
 
 | Item | Description |
 |-----|-----|
-| Layout | e.g. Split 40%, Ortholinear |
-| Keys | e.g. 42 keys |
+| Layout | Column-staggered |
+| Keys | 46 keys |
 | Controller | RP2040-Zero |
-| Firmware | QMK / KMK |
+| Firmware | QMK |
 | Connection | USB-C |
-| Case | 3D printed / acrylic / none |
+| Case | cardboard / lether  |
 
 ---
 
@@ -42,40 +39,13 @@ Example:
 
 ---
 
-## Wiring
-(Add wiring diagram)
-
-![wiring](wiring/wiring-diagram.png)
-
----
 
 ## Firmware
-
-Example firmware setup:
-
-- QMK
-- KMK
-
 Firmware files are located in:
 
 ```
 firmware/
 ```
-
----
-
-## Case
-
-3D data or case design files:
-
-```
-case/
-```
-
-Example:
-- STL
-- STEP
-- Fusion360
 
 ---
 
@@ -96,8 +66,3 @@ Example:
 - Plate thickness
 - Assembly tips
 
----
-
-## License
-
-MIT / CERN-OHL / CC BY-SA / etc.
